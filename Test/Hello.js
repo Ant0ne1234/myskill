@@ -3,4 +3,5 @@ function Helloworld(){
 }
 export default function(){
     Helloworld()
+    Helloworld()
 }
